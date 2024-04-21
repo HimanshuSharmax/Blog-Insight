@@ -45,7 +45,7 @@ function Login() {
                     </Link>
         </p>
 
-        <h4 className='mt-7 text-center text-base text-black-600'>For Testing use this Email & Password!</h4>
+        <h4 className='mt-7 text-center text-base text-black-600'>Use this credential for <b>Testing</b> purposes only!</h4>
         <h3 className='mt-1 text-center text-base text-black/60'>Email: Testing@gmail.com</h3>
         <h3 className='mt-1 text-center text-base text-black/60'>Password: Test@123</h3>
 
