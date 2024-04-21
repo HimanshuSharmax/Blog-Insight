@@ -45,8 +45,9 @@ function Login() {
                     </Link>
         </p>
 
-        <h2>For Testing use mail</h2>
-        <h3>Testing@gmail.com</h3>
+        <h4 className='mt-7 text-center text-base text-black-600'>For Testing use this Email & Password!</h4>
+        <h3 className='mt-1 text-center text-base text-black/60'>Email: Testing@gmail.com</h3>
+        <h3 className='mt-1 text-center text-base text-black/60'>Password: Test@123</h3>
 
         {error && <p className="text-red-600 mt-8 text-center">{error}</p>}
         
