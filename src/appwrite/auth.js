@@ -44,7 +44,7 @@ export class AuthService {
               return await this.account.get(); 
           } catch (error) {
                // throw error;
-               console.log("Appwrite service :: getCurrentUser :: error",error);
+               // console.log("Appwrite service :: getCurrentUser :: error",error);
           }
           return null;
      }
@@ -54,7 +54,8 @@ export class AuthService {
                alert("Are you sure? Logout!");
               return await this.account.deleteSessions(); 
           } catch (error) {
-               console.log("Appwrite service :: logout :: error",error);
+               throw(error)
+               // console.log("Appwrite service :: logout :: error",error);
           }
      }
 }
