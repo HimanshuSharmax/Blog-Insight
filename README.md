@@ -4,6 +4,9 @@ This is a blog-app developed in React.js that allows users to read and write blo
 
 The app uses Redux for state management, React-DOM for rendering, React Hooks for managing component state, and Appwrite for storing data in the database.
 
+## Live Preview
+You can check out <a href="https://bloginsight.netlify.app/">live-preview</a>.
+
 ## Features 🚀
 
 - **Authentication:** Users can sign up, sign in, and sign out securely to access the blog functionalities.
@@ -20,6 +23,14 @@ The app uses Redux for state management, React-DOM for rendering, React Hooks fo
 - React-DOM
 - React Hooks
 - Appwrite
+
+## Preview of Blog-App
+- About page:
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/08882b98-22a9-4e40-8125-0eb19165dff2" width=900 height=500>
+
+
+- Blog - All Posts:
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/cbce1d07-3965-4541-8bda-7119f534badc" width=900>
 
 
 ## Getting Started
