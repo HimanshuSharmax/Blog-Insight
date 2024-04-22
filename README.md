@@ -27,20 +27,16 @@ You can check out <a href="https://bloginsight.netlify.app/">live-preview</a>.
 ## Preview of Blog-App:
 
 ###  Home page -
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/b103ecde-3c9c-4c3e-aa8a-8735f473feda" width=900>
-
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/6ea754b2-ff14-424b-9aa8-6c168d89ab54" width=900>
 
 ### Create Blog -
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/1203d7fc-722e-4685-835b-6440dd910fc9" width=900>
-
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/22bb9233-7992-44f3-8356-faf1160c3155" width=900>
 
 ### Blog Preview -
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/f0f492db-23b9-41d5-b578-0f1079d425cf" width=850>
-
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/56d46b25-67fc-4765-b426-bafad89be1ee)" width=850>
 
 ### All Blog -
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/c3f43676-9530-4934-aa20-9b58fbc8451a" width=900>
-
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/98db3c47-9bb5-425e-9459-fd8a8ced2989)" width=900>
 
 ## Getting Started
 
