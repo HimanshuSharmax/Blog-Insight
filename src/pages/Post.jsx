@@ -66,10 +66,9 @@ export default function Post() {
                 </div>
                 </div>
              
-                <Link to="/all-posts" className="text-2xl font-medium font-serif flex justify-end items-center mt-5 text-blue-800 hover:text-blue-500 duration-300">
+                <Link to="/all-blogs" className="text-2xl font-medium font-serif flex justify-end items-center mt-5 text-blue-800 hover:text-blue-500 duration-300">
                 <ArrowBackIcon className=""></ArrowBackIcon> Back
                 </Link>
-
 
             </Container>
         </div>

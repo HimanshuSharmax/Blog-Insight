@@ -62,11 +62,11 @@ function Home() {
 
                 {!authStatus ? (
                 <h3 className='text-2xl font-medium font-serif flex justify-center mt-5 text-blue-800 hover:text-red-600 hover:scale-105 duration-300'>
-                    <Link to="/login">Login to Read and Create Posts!</Link>
+                    <Link to="/login">Login to Read and Create Blogs!</Link>
                 </h3>        
                 ) : (
                     <h3 className='text-2xl font-medium font-serif flex justify-center mt-5 text-blue-800 hover:text-red-600 hover:scale-105 duration-300'>
-                    <Link to="/all-posts">Read all Posts!</Link>
+                    <Link to="/all-blogs">Read all Blogs!</Link>
                     </h3> 
                 )}
 

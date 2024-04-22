@@ -19,7 +19,7 @@ function Login() {
             if (session) {
                 const userData = await authService.getCurrentUser()
                 if(userData) dispatch(authLogin(userData));
-                navigate("/")
+                navigate("/all-blogs");
             }
         } catch (error) {
             setError(error.message)
@@ -28,7 +28,7 @@ function Login() {
 
   return (
     <div
-    className='flex items-center justify-center w-full'>
+    className='flex mt-8 items-center justify-center w-full'>
         <div className={`mx-auto w-full max-w-lg bg-gray-100 rounded-xl p-10 border border-black/10`}>
         <div className="mb-2 flex justify-center">
                     <span className="w-full max-w-[100px] flex justify-center ">
