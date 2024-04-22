@@ -4,6 +4,7 @@ import appwriteService from "../appwrite/config";
 import { Button, Container } from "../components";
 import parse from "html-react-parser";
 import { useSelector } from "react-redux";
+import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 
 export default function Post() {
     const [post, setPost] = useState(null);
@@ -35,7 +36,7 @@ export default function Post() {
     return post ? (
         <div className="py-8">
             <Container>
-                <div className="w-full flex justify-center mb-4 relative border rounded-xl p-2">
+                <div className="w-full flex justify-center mb-4 relative border-blue-600 rounded-xl p-2">
                     <img
                         src={appwriteService.previewFile(post.featuredImage)}
                         alt={post.title}
@@ -55,12 +56,21 @@ export default function Post() {
                         </div>
                     )}
                 </div>
-                <div className="w-full mb-6">
-                    <h1 className="text-2xl font-bold">{post.title}</h1>
+                <div className="w-full mb-6 flex justify-center">
+                    <h2 className="text-4xl font-bold font-serif text-blue-700">{post.title}</h2>
                 </div>
-                <div className="browser-css">
+
+                <div className="w-full flex justify-center">
+                <div className="w-4/5 browser-css text-xl font-normal font-serif text-justify">
                     {parse(post.content)}
-                    </div>
+                </div>
+                </div>
+             
+                <Link to="/all-posts" className="text-2xl font-medium font-serif flex justify-end items-center mt-5 text-blue-800 hover:text-blue-500 duration-300">
+                <ArrowBackIcon className=""></ArrowBackIcon> Back
+                </Link>
+
+
             </Container>
         </div>
     ) : null;
