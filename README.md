@@ -35,7 +35,7 @@ You can check out <a href="https://bloginsight.netlify.app/">live-preview</a>.
 
 
 ### Blog Preview -
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/f0f492db-23b9-41d5-b578-0f1079d425cf" width=850 height=650>
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/f0f492db-23b9-41d5-b578-0f1079d425cf" width=850>
 
 
 ### All Blog -
