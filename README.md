@@ -24,13 +24,22 @@ You can check out <a href="https://bloginsight.netlify.app/">live-preview</a>.
 - React Hooks
 - Appwrite
 
-## Preview of Blog-App
-- About page:
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/08882b98-22a9-4e40-8125-0eb19165dff2" width=900 height=500>
+## Preview of Blog-App:
+
+###  Home page -
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/b103ecde-3c9c-4c3e-aa8a-8735f473feda" width=900 height=550>
 
 
-- Blog - All Posts:
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/cbce1d07-3965-4541-8bda-7119f534badc" width=900>
+### Create Blog -
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/1203d7fc-722e-4685-835b-6440dd910fc9" width=900 height=550>
+
+
+### Blog Preview -
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/677cbd0f-8e11-4616-8871-81b43672bbde)" width=800 height=650>
+
+
+### Blog - All Posts -
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/c3f43676-9530-4934-aa20-9b58fbc8451a" width=900>
 
 
 ## Getting Started
