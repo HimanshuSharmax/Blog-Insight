@@ -57,16 +57,16 @@ export default function Post() {
                     )}
                 </div>
                 <div className="w-full mb-6 flex justify-center">
-                    <h2 className="text-4xl font-bold font-serif text-blue-700">{post.title}</h2>
+                    <h2 className="text-4xl font-bold font-serif text-blue-400">{post.title}</h2>
                 </div>
 
                 <div className="w-full flex justify-center">
-                <div className="w-4/5 browser-css text-xl font-normal font-serif text-justify">
+                <div className="w-4/5 browser-css text-xl font-normal font-serif text-blue-100 text-justify">
                     {parse(post.content)}
                 </div>
                 </div>
              
-                <Link to="/all-blogs" className="text-2xl font-medium font-serif flex justify-end items-center mt-5 text-blue-800 hover:text-blue-500 duration-300">
+                <Link to="/all-blogs" className="text-2xl font-medium font-serif flex justify-end items-center mt-5 text-blue-300 hover:text-blue-100 duration-300">
                 <ArrowBackIcon className=""></ArrowBackIcon> Back
                 </Link>
 

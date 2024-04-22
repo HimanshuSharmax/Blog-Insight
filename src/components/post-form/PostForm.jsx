@@ -72,11 +72,11 @@ export default function PostForm({ post }) {
 
     return (
         <form onSubmit={handleSubmit(submit)} className="flex flex-wrap">
-            <div className="w-2/3 px-2 text-lg font-bold">
+            <div className="w-2/3 px-2 text-lg font-bold text-gray-200">
                 <Input
                     label="Title :"
                     placeholder="Title"
-                    className="mb-4 text-lg font-normal"
+                    className="mb-4 text-lg font-normal text-black"
                     {...register("title", { required: true })}
                 />
                 <Input
@@ -88,10 +88,10 @@ export default function PostForm({ post }) {
                         setValue("slug", slugTransform(e.currentTarget.value), { shouldValidate: true });
                     }}/>
 
-               <RTE label="Content :" name="content" control={control} defaultValue={getValues("content")} />
+               <RTE label="Content :" name="content" control={control} defaultValue={getValues("content")} className='bg-blue-100' />
             </div>
 
-            <div className="w-1/3 px-2 text-lg font-bold">
+            <div className="w-1/3 px-2 text-lg font-bold text-gray-200">
                 <Input
                     label="Featured Image :"
                     type="file"

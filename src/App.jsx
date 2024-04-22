@@ -25,7 +25,7 @@ function App() {
   },[])
 
   return !loading ? (
-    <div className='min-h-screen flex flex-wrap content-between bg-blue-200'>
+    <div className='min-h-screen flex flex-wrap content-between bg-slate-900   bg-gradient-to-r from-stone-900 to-blue-900'>
       <div className='w-full block'>
         <Header/>
         <main>
