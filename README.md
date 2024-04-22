@@ -27,11 +27,11 @@ You can check out <a href="https://bloginsight.netlify.app/">live-preview</a>.
 ## Preview of Blog-App:
 
 ###  Home page -
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/b103ecde-3c9c-4c3e-aa8a-8735f473feda" width=900 height=550>
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/b103ecde-3c9c-4c3e-aa8a-8735f473feda" width=900>
 
 
 ### Create Blog -
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/1203d7fc-722e-4685-835b-6440dd910fc9" width=900 height=550>
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/1203d7fc-722e-4685-835b-6440dd910fc9" width=900>
 
 
 ### Blog Preview -
