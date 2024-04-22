@@ -1,4 +1,4 @@
-# Blog-Insight 🧾
+# Blog-Insight | Share Thoughts 📑
 
 This is a blog-app developed in React.js that allows users to read and write blogs, add pictures and paragraphs to their blogs, and perform operations like delete and update on their blogs. 
 
@@ -35,10 +35,10 @@ You can check out <a href="https://bloginsight.netlify.app/">live-preview</a>.
 
 
 ### Blog Preview -
-<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/677cbd0f-8e11-4616-8871-81b43672bbde)" width=800 height=650>
+<img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/f0f492db-23b9-41d5-b578-0f1079d425cf" width=850 height=650>
 
 
-### Blog - All Posts -
+### All Blog -
 <img src="https://github.com/HimanshuSharmax/Blog-Insight/assets/86725419/c3f43676-9530-4934-aa20-9b58fbc8451a" width=900>
 
 
