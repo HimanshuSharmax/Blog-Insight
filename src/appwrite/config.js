@@ -25,8 +25,8 @@ export class Service{
                     }
                )
           } catch (error) {
+               console.log("Appwrite service :: createPost :: error",error);
                throw(error)
-               // console.log("Appwrite service :: createPost :: error",error);
           }
      }
 
@@ -98,7 +98,7 @@ export class Service{
                     file,
                )
           } catch (error) {
-               // console.log("Appwrite service :: uploadFile :: error",error);
+               console.log("Appwrite service :: uploadFile :: error",error);
                return false
           }
      }
