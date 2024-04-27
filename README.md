@@ -43,7 +43,7 @@ You can check out <a href="https://bloginsight.netlify.app/">live-preview</a>.
 To get started with the project, follow these steps:
 1. Clone the repository:
 ```
-   git clone https://github.com/your-username/blog-app.git
+   git clone https://github.com/HimanshuSharmax/blog-app.git
 
 ```
 
